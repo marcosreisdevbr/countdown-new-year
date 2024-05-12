@@ -24,6 +24,10 @@ Este projeto consiste em uma página da web que exibe um countdown para o Ano No
 2. Abra o arquivo `index.html` em um navegador da web.
 3. A contagem regressiva para o Ano Novo será exibida na página.
 
+## Screenshots
+
+https://github.com/marcosreisdevbr/countdown-new-year/issues/1#issue-2291374064
+
 ## Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request com melhorias, correções de bugs, ou novas funcionalidades.
