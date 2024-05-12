@@ -1,10 +1,16 @@
+
 # countdown-new-year
 
-> Um simples projeto de countdown para o Ano Novo, desenvolvido com HTML, CSS e JavaScript.
+![countdown-new-year](https://github.com/marcosreisdevbr/countdown-new-year/assets/167995307/17e2ab7c-0b9d-4071-97f8-3f69af7b483c)
 
-## Visão Geral
 
->Este projeto consiste em uma página da web que exibe um countdown para o Ano Novo. Ele mostra os dias, horas, minutos e segundos restantes até a chegada do novo ano.
+## 🟢 <a href="https://projetos.marcosreis.dev.br/countdown/" target="_blank" rel="noopener"> VEJA ESTE PROJETO </a>
+
+
+## Visão Geral 
+
+>Este projeto consiste em uma página da web que exibe um countdown para o Ano Novo, desenvolvido com HTML, CSS e JavaScript.
+Ele mostra os dias, horas, minutos e segundos restantes até a chegada do novo ano.
 
 ## Funcionalidades
 
@@ -14,9 +20,13 @@
 
 ## Tecnologias Utilizadas
 
->- HTML5
->- CSS3
->- JavaScript
+<table>
+   <tr>
+      <th> HTML5 </th>
+      <th> CSS3 </th>
+      <th> JavaScript </th>
+  </tr>
+</table>
 
 ## Como Utilizar
 
@@ -24,17 +34,6 @@
 >- 2. Abra o arquivo `index.html` em um navegador da web.
 >- 3. A contagem regressiva para o Ano Novo será exibida na página.
 
-## Screenshots
-
-![countdown-new-year](https://github.com/marcosreisdevbr/countdown-new-year/assets/167995307/17e2ab7c-0b9d-4071-97f8-3f69af7b483c)
-
-## Você pode acessar este projeto publicado
-
-<a href="https://projetos.marcosreis.dev.br/countdown/" target="_blank" rel="noopener">
-  <span style="background-color: #1374ef">
-    ⚠️ DEPLOY
-  </span>
-</a>
 
 ## Contribuição
 
