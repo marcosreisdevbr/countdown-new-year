@@ -28,7 +28,7 @@ Este projeto consiste em uma página da web que exibe um countdown para o Ano No
 
 ![countdown-new-year](https://github.com/marcosreisdevbr/countdown-new-year/assets/167995307/17e2ab7c-0b9d-4071-97f8-3f69af7b483c)
 
-## Você pode acessar este projeto pulicado
+## Você pode acessar este projeto publicado
 
 <a href="https://projetos.marcosreis.dev.br/countdown/" target="_blank" rel="noopener">
   <button>
