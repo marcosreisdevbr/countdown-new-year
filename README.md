@@ -30,7 +30,7 @@ Este projeto consiste em uma página da web que exibe um countdown para o Ano No
 
 ## Você pode acessar este projeto publicado
 
-<a href="https://projetos.marcosreis.dev.br/countdown/" target="_blank" rel="noopener">
+<a href="https://projetos.marcosreis.dev.br/countdown/" target="_blank" rel="noopener" style="text-decoration: none;">
   <span>
     ⚠️ DEPLOY
   </span>
