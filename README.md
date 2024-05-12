@@ -26,7 +26,7 @@ Este projeto consiste em uma página da web que exibe um countdown para o Ano No
 
 ## Screenshots
 
-https://github.com/marcosreisdevbr/countdown-new-year/issues/1#issue-2291374064
+![countdown-new-year](https://github.com/marcosreisdevbr/countdown-new-year/assets/167995307/17e2ab7c-0b9d-4071-97f8-3f69af7b483c)
 
 ## Contribuição
 
