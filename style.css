@@ -1,0 +1,99 @@
+
+ @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+body{
+    background-image: url('img/snow.min.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center top;
+}
+
+@media(max-width:992px){
+   body{
+    background-image: url('img/snowV2mobile-min.jpg');
+   }      
+}
+
+@media(max-width: 768px){
+    .fs-1{
+        font-size: calc(2rem + 2vw)!important;
+       }
+    
+       .fs-2{
+        font-size: 0.8rem !important;
+       }
+
+       .fs-3{
+        font-size: 2rem !important;
+    }
+}
+
+.container{
+    width: 100%;
+    max-width: 1320px;
+    margin: 0 auto;    
+    padding: 0 25px;
+}
+
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: rgba(255,255,255, 0.5);
+    border-radius: 20px;
+    padding: 20px;
+}
+
+.col-3{
+    width: 25%;
+    flex: 0 0 auto;
+}
+
+.col-12{
+    width: 100%;
+    flex: 0 0 auto;
+}
+
+section{
+    height: 90vh;
+    display: grid;
+    place-items: center;
+}
+
+h2{
+    font-weight: 600;
+}
+
+h1{
+    font-weight: 700;
+    line-height: 1.2;
+}
+
+p{
+    font-weight: 400;
+    font-weight: 500;
+}
+
+.fs-1{
+    font-size: calc(3rem + 2vw);
+}
+
+.fs-2{
+    font-size: 1.2rem;
+}
+
+.fs-3{
+    font-size: 2.5rem;
+}
